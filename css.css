@@ -1,12 +1,12 @@
 
 .active {
-    background-color: #6A5ACD;
+    background-color: #81DAF5;
     color: #fff;    
 }
 
 
 body {
-    background-color: #6A5ACD;
+    background-color: #58ACFA;
     font-family: verdana;
     font-size: 14px;
 	margin: 0;    
@@ -40,7 +40,7 @@ body {
 
 
 #header a {
-    color:#6A5ACD;
+    color:#58ACFA;
     font-variant: small-caps;
     text-decoration: none;
  
