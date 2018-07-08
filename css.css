@@ -47,7 +47,12 @@ body {
 }
 
 
-
+#header a {
+    color:#B0C4DE;
+    font-variant: small-caps;
+    text-decoration: none;
+ 
+}
 
 
 
