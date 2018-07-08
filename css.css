@@ -39,14 +39,7 @@ body {
     padding: 10px;
 }
 
-#footer a {
-    color: #fff;
-    text-decoration: underline;
-}
 
-#footer a:hover {
-    text-decoration: none;
-}
 
 .formbuttons {
     margin-top: 15px;
