@@ -1,12 +1,12 @@
 
 .active {
-    background-color: #81DAF5;
+    background-color: #7FB3D5;
     color: #fff;    
 }
 
 
 body {
-    background-color: #58ACFA;
+    background-color: #7FB3D5;
     font-family: verdana;
     font-size: 14px;
 	margin: 0;    
@@ -33,6 +33,13 @@ body {
     padding: 10px 0px;    
     text-align: center;
 }
+
+#header a {
+     color:##1F618D;
+     font-variant: small-caps;
+     text-decoration: none;
+ 
+ }
 
 
 
